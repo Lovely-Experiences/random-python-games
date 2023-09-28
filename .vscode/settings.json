@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "C:/Users/Jacob Humston/AppData/LocalMicrosoft/WindowsApps/PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0",
+  "cSpell.words": [
+    "pygame"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
+}
